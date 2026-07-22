@@ -1,0 +1,6 @@
+-- SOAL 01-1: PERHITUNGAN MASSA x PERCEPATAN --
+-- Diketahui: m = 600, a = 2
+-- Target output: 1200
+--
+-- Tulis pseudocode-mu di bawah baris ini:
+

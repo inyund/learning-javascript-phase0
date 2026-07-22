@@ -1,0 +1,7 @@
+-- SOAL 01-4: KONVERSI SUHU (Celsius -> Fahrenheit) --
+-- Diketahui: celsius = 25
+-- Rumus: fahrenheit = (celsius * 9 / 5) + 32
+-- Target output: 77
+--
+-- Tulis pseudocode-mu di bawah baris ini:
+

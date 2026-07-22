@@ -1,0 +1,3 @@
+let gacha = Math.ceil(Math.random() * 5);
+
+// Tulis switch case Anda di sini

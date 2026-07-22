@@ -1,0 +1,6 @@
+-- SOAL 01-2: PENILAIAN GRADE SISWA --
+-- Simpan: nama, nilai, grade
+-- Tentukan grade dari rentang nilai (lihat tabel di README), lalu tampilkan nama & grade.
+--
+-- Tulis pseudocode-mu di bawah baris ini:
+
