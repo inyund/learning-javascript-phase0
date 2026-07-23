@@ -1,0 +1,6 @@
+-- SOAL 01-5: CARI NILAI TERBESAR DARI TIGA ANGKA --
+-- Diketahui: a = 7, b = 12, c = 4
+-- Target output: 12
+--
+-- Tulis pseudocode-mu di bawah baris ini:
+

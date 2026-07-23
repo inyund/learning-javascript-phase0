@@ -1,0 +1,6 @@
+-- SOAL 01-3: DISNEY ISLAND TARIFF --
+-- Input: age, height
+-- Tentukan tarif berdasarkan umur & tinggi (lihat tabel aturan di README).
+--
+-- Tulis pseudocode-mu di bawah baris ini:
+
